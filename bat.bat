@@ -1,1 +1,2 @@
-msg * /v Test
+cmd
+start
