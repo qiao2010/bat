@@ -1,1 +1,1 @@
-msg * /v Test Message!
+msg * /v Test
